@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="mainBtn">CLICK</string>
+    <string name="no1">Number 1</string>
+    <string name="no2">Number 2</string>
+    <string name="btnOk">OK</string>
+</resources>
